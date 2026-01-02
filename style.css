@@ -10,3 +10,24 @@ h1 {
     color: rgb(0, 0, 0);
     text-align: center;
 }
+
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
